@@ -2,4 +2,4 @@
  
 This repository is called as datasciencecoursera, which is the course project. 
 In order to be evaluated by peers, it must be pushed onto GitHub.
-Thank you!
+Thank you for your evaluation!
